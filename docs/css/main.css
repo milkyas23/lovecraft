@@ -1,0 +1,20 @@
+body { 
+    background-color: rgb(0, 0, 0);
+    color: rgb(253, 0, 0);
+    font-size: 16px;
+}
+
+
+main{ 
+width:60%;
+margin: 0 auto;
+font-family: 'Dancing Script', cursive;
+font-size: 1.2em; }
+.unreadable{ 
+    background-image: url(http://wallperio.com/data/out/448/scary-background_622080755.jpg);
+    background-position:center;
+    background-size: cover;
+
+}
+
+}
